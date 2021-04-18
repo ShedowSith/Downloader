@@ -1,0 +1,7 @@
+ru\rahimyanov\downloader\utils\PoolDownloader.class
+ru\rahimyanov\downloader\spring\Config.class
+ru\rahimyanov\downloader\Runner.class
+ru\rahimyanov\downloader\utils\ThrottlingInputStream.class
+ru\rahimyanov\downloader\utils\FileLoaderLimit500.class
+ru\rahimyanov\downloader\utils\PoolDownloaderImpl.class
+ru\rahimyanov\downloader\utils\FileLoader.class
